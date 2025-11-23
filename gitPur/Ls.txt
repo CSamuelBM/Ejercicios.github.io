@@ -1,0 +1,50 @@
+HTML 
+<em>, letra en cursiva.
+<strong>, letra en negritas.
+<ul>, lista con puntos. <ol>, lista con números. <li>, lista. 
+<img>, src, poner un link. alt, nombre alternativo.
+<a>, hipervínculo.  heref, link. 
+<table>, tabla. <thead>, encabezado de la tabla. <tbody>, cuerpo de la tabla. 
+<tr>, fila de la tabla. <th>, fila del encabezado tabla. <td>, fila del cuerpo tabla. 
+<span>, contenedor de elementos en línea.
+<div>, contenedor de elementos en bloque.
+<nav>, menú principal o navegación de enlaces.
+
+CSS
+width, ancho. height, altura.
+font-size, tamaño de fuente.
+font-weight, que tan grueso estén las letras (en negritas).
+list-style-type, quita los puntos o números de una lista (también pone). 
+text-decoration, quita la linea del hipervínculo (también pone).
+font-family, tipo de fuente de letra.
+font-style, estilo de la letra.
+line-height, separación entre líneas de un texto en altura.
+text-aling, posición del texto.
+text-transform, cambia el texto (mayúscula, minúscula).
+overflow, cunando el texto es largo pone una barra de scroll.
+overflow-x, se desplaza horizontal.  overflow-y, se desplaza vertical.
+text-overflow, corta texto largo.
+margin, margen completo (arriba, izquierda, abajo, derecha).
+margin-right, margen al lado derecho.
+margin-left, margen al lado izquierdo.
+margin-bottom, margen en la parte de abajo.
+border, bordes al margen (grosor, estilo, color).
+border-top, borde en la parte superior (grosor, estilo, color).
+padding, pone relleno.
+position, posición (imagen, texto). 
+top, arriba. bottom, abajo. left, izquierda. right, derecha.
+z-index, orden en que van los elementos.
+float, tener elementos flotantes (imagen, lista, texto).
+clear, no tenga elementos flotantes por encima.
+ 
+Medias absolutas
+px, 1 punto en la pantalla.
+
+Medias relativas
+%, relativo al tamaño en función del contenedor padre.
+em, relativo al tamaño de fuente del elemento padre. 
+rem, relativo al tamaño de fuente de la raíz.
+vw, Relativo al ancho de la pantalla.
+vh, Relativo a la altura de la pantalla.
+
+@media (max-width: 900px), para ajustar la pantalla
