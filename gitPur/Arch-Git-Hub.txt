@@ -1,0 +1,7 @@
+git clone
+git push origin master
+git push
+git pull
+git fetch
+git switch --detach
+git remote -v

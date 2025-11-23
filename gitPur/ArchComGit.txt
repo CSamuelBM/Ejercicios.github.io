@@ -1,0 +1,51 @@
+git init
+code 
+git config --global
+git config --local
+clear
+cd
+cd ..
+mkdir 
+rmdir
+ls
+ls -a
+git add
+git status
+git rm --cached 
+git commit -m " "
+git commit -m " " -a
+git commit
+git commit -a
+rm
+git restore
+git checkout
+git reset --hard
+git mv
+git status -s
+git show 
+git diff --staged
+git log
+git log --oneline
+git config --global core.abbrev 5
+git diff
+git diff --name-only
+git diff --word-diff
+git commit --amend
+git rebase -i head~
+git rebase --continue
+git reset --soft 
+git reset --soft head~
+git reset --mixed
+git branch
+git switch
+git branch -m
+git switch -c 
+git merge
+git log --oneline --all
+git merge --continue
+git ls-tree -r --name-only
+git ls-tree -r --name-only HEAD
+git log --oneline --all --graph --pretty=format:"%c(auto)%h%d %s %c(black)%c(bold)%cr"
+git config --global alias.log-mejorado "log --oneline --all --graph --pretty=format:'%c(auto)%h%d %s %c(black)%c(bold)%cr'"
+git log --graph --oneline --allgit reflog
+git reflog
